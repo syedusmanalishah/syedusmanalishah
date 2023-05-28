@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **syedusmanalishah/syedusmanalishah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linkedin.com/in/syedusmanalish/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: One interesting fact about me is that I have a fascination with electronics and enjoy repairing and modifying various electronic devices. I love the challenge of troubleshooting and fixing things, whether it's a broken gadget or a circuit that needs repair
--->
+
