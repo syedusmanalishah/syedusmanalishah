@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Syed+Usman!;+A+DevOps+and+Engineer!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Syed+Usman!;+A+DevOps+Engineer!" />
 </h1>
 
 <h3 align="center">Passionate DevOps Engineer with expertise in automation, CI/CD, and infrastructure management. I thrive in collaborative environments, leveraging my skills to optimize workflows, improve system reliability, and drive innovation in every project.</h3>
